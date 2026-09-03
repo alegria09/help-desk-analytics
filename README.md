@@ -9,6 +9,12 @@ Dashboard desenvolvido em Power BI para análise de desempenho de uma operação
 ## 🎯 Objetivo do projeto
 
 Este projeto tem como objetivo analisar os chamados de suporte técnico, permitindo identificar padrões, acompanhar indicadores de desempenho e apoiar a tomada de decisões baseada em dados.
+## 📌 Sobre o projeto
+
+Projeto desenvolvido para portfólio profissional, com foco no desenvolvimento de competências práticas em Data Analytics e Business Intelligence, utilizando um cenário de suporte técnico/Help Desk.
+
+O projeto demonstra o processo desde a preparação dos dados até à criação de indicadores, visualizações e interpretação dos resultados.
+
 
 ## 🛠️ Ferramentas utilizadas
 
@@ -47,6 +53,6 @@ Help-Desk-Analytics/
 
 **Alegria Distinto Gabriel**
 
-Projeto desenvolvido para portfólio na área de Análise de Dados.
+Projeto desenvolvido para portfólio na área de Análise de Dados e
 │   └── dashboard.png
 └── README.md
