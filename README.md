@@ -4,7 +4,7 @@ Dashboard desenvolvido em Power BI para análise de desempenho de uma operação
 
 ## 📊 Dashboard
 
-![Help Desk Analytics](images/dashboard_Helpdesk.png)
+![Help Desk Analytics](images/dashboard_helpdesk.png)
 
 ## 🎯 Objetivo do projeto
 
@@ -42,5 +42,11 @@ Help-Desk-Analytics/
 ├── dashboard/
 │   └── Help_Desk_Analytics.pbix
 ├── images/
+
+👩‍💻 Autora
+
+**Alegria Distinto Gabriel**
+
+Projeto desenvolvido para portfólio na área de Análise de Dados.
 │   └── dashboard.png
 └── README.md
