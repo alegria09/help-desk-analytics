@@ -49,10 +49,9 @@ Help-Desk-Analytics/
 │   └── Help_Desk_Analytics.pbix
 ├── images/
 
-👩‍💻 Autora
+```
+## 👩‍💻 Autora
 
 **Alegria Distinto Gabriel**
 
-Projeto desenvolvido para portfólio na área de Análise de Dados e
-│   └── dashboard.png
-└── README.md
+Projeto desenvolvido para portfólio profissional na área de Análise de Dados.
